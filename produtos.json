@@ -1,0 +1,91 @@
+[
+    {
+        "nome": "iphone_15",
+        "descricao": "Apple iPhone 15 128GB Preto 6,1 48MP iOS 5G",
+        "imagem": "iphone15.webp",
+        "urls": {
+            "loja1": {
+                "nome_loja": "Magazine Luiza",
+                "url": "https://www.magazineluiza.com.br/apple-iphone-15-128gb-preto-61-48mp-ios-5g/p/238035600/te/ip15/",
+                "seletor": "[data-testid='price-value']"
+            },
+            "loja2": {
+                "nome_loja": "Americanas",
+                "url": "https://www.americanas.com.br/apple-iphone-15-de-128gb-rosa-7483302920/p",
+                "seletor": "[class='ProductPrice_productPrice__vpgdo']"
+            },
+            "loja3": {
+                "nome_loja": "Kabum",
+                "url": "https://www.kabum.com.br/produto/519143/apple-iphone-15-128gb-quadriband-6-1-camera-dupla-48mp-preto-mtp03br-a",
+                "seletor": "[class='sc-5492faee-2 ipHrwP finalPrice']"
+            }
+        }
+    },
+    {
+        "nome": "samsung_S24",
+        "descricao": "Samsung Galaxy S24 FE 128GB Grafite 5G",
+        "imagem": "samsungs24.webp",
+        "urls": {
+            "loja1": {
+                "nome_loja": "Magazine Luiza",
+                "url": "https://www.magazineluiza.com.br/smartphone-samsung-galaxy-s24-fe-128gb-grafite-5g-8gb-ram-67-cam-tripla-selfie-10mp/p/240010800/te/s24f/",
+                "seletor": "[data-testid='price-value']"
+            },
+            "loja2": {
+                "nome_loja": "Americanas",
+                "url": "https://www.americanas.com.br/smartphone-samsung-galaxy-s24-128gb-5g-preto-galaxy-ai-camera-tripla-50mp-selfie-12mp-ram-8gb-tela-6-2-7500047450/p",
+                "seletor": "[class='ProductPrice_productPrice__vpgdo']"
+            },
+            "loja3": {
+                "nome_loja": "Kabum",
+                "url": "https://www.kabum.com.br/produto/712380/celular-samsung-galaxy-s24-fe-5g-128gb-8gb-ram-tela-6-7-galaxy-ai-cinza",
+                "seletor": "[class='sc-5492faee-2 ipHrwP finalPrice']"
+            }
+        }
+    },
+    {
+        "nome": "iphone_16e",
+        "descricao": "Apple iPhone 16e 128GB Branco 6,1 48MP iOS 5G",
+        "imagem": "iphone16e.webp",
+        "urls": {
+            "loja1": {
+                "nome_loja": "Magazine Luiza",
+                "url": "https://www.magazineluiza.com.br/apple-iphone-16e-128gb-branco-61-48mp-ios-5g/p/240059700/te/i16e/",
+                "seletor": "[data-testid='price-value']"
+            },
+            "loja2": {
+                "nome_loja": "Americanas",
+                "url": "https://www.americanas.com.br/iphone-16-apple-128gb-preto-tela-de-6-1-5g-e-camera-de-48mp-7512516013/p",
+                "seletor": "[class='ProductPrice_productPrice__vpgdo']"
+            },
+            "loja3": {
+                "nome_loja": "Kabum",
+                "url": "https://www.kabum.com.br/produto/717162/iphone-16e-apple-128gb-camera-48mp-tela-super-retina-xdr-6-1-preto",
+                "seletor": "[class='sc-5492faee-2 ipHrwP finalPrice']"
+            }
+        }
+    },
+    {
+        "nome": "samsung_a55",
+        "descricao": "Smartphone Samsung Galaxy A55 128GB - Azul Escuro, 5G",
+        "imagem": "samsunga55.webp",
+        "urls": {
+            "loja1": {
+                "nome_loja": "Magazine Luiza",
+                "url": "https://www.magazineluiza.com.br/smartphone-samsung-galaxy-a55-128gb-azul-escuro-5g-camera-tripla-50mp-selfie-32mp-ram-8gb-tela-6-6/p/kfj09b7hf9/te/galx/",
+                "seletor": "[data-testid='price-value']"
+            },
+            "loja2": {
+                "nome_loja": "Americanas",
+                "url": "https://www.americanas.com.br/samsung-galaxy-a55-5g-dual-sim-128-gb-8-gb-ram-cor-rosa-7514263460/p",
+                "seletor": "[class='ProductPrice_productPrice__vpgdo']"
+            },
+            "loja3": {
+                "nome_loja": "Kabum",
+                "url": "https://www.kabum.com.br/produto/541839/smartphone-samsung-galaxy-a55-5g-128gb-8gb-ram-camera-tripla-50mp-selfie-32mp-tela-6-6-azul-escuro",
+                "seletor": "[class='sc-5492faee-2 ipHrwP finalPrice']"
+            }
+        }
+    }
+]
+
