@@ -141,6 +141,7 @@
             <span class="material-symbols-outlined heart-icon">favorite</span>
             </label>
 
+            <!-- CARREGAMENTO DE IMAGEM -->
             <div class="img_cel">
               {% if produto.imagem.startswith('http') %}
                   <img src="{{ produto.imagem }}" alt="{{ produto.nome }}">
@@ -148,7 +149,8 @@
                   <img src="{{ url_for('static', filename='img/' ~ produto.imagem) }}" alt="{{ produto.nome }}">
               {% endif %}
             </div>
-
+            
+            
             <div class="nome_produto">
             <h2>{{ produto.descricao }}</h2>
             </div>
